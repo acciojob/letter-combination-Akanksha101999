@@ -1,7 +1,5 @@
 function letterCombinations(input) {
   //Complete the function
-	let input = "368";
-
 
 	
 	let table = {
